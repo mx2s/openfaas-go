@@ -1,6 +1,6 @@
 # openfaas-go-httprouter
 
-Go function for OpenFaas that uses [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter). Can be deployed to OpenFaas or can run locally as a webserver
+Go function template for OpenFaas that uses [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter). Can be deployed to OpenFaas or can run locally as a webserver
 
 ## Usage instructions
 
